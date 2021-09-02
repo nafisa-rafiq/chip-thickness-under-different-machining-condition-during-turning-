@@ -1,0 +1,1 @@
+# chip-thickness-under-different-machining-condition-during-turning-
