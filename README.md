@@ -1,1 +1,3 @@
-# chip-thickness-under-different-machining-condition-during-turning-
+# Study and analysis of chip thickness under different machining condition during turning 
+
+The main purpose of the project was to observe the chip thickness under various machining conditions. In this project, we performed turning operations on a specific workpiece material composed of low carbon steel. Tungsten carbide cutting tools with different cutting edge radius were used in both dry and wet conditions with variable cutting speeds and feed rates. For each trial, we observed different chip thicknesses and found that chips with minimum thickness were formed during minimum feed rate and maximum speed in wet conditions.
